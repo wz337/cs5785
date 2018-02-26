@@ -2,6 +2,8 @@
 
 ## Ranked the 3rd out of 82 submissions.
 
+Due to the limited amount of time and computation resources we have, we can only run a small number of experiments before the deadline. The final model was chosen based on the best accuracy we achieved on the test set. There are still many other models worth exploring and might achieve better accuracy. 
+
 ## Abstract
 
 <p style="text-align:justify">
